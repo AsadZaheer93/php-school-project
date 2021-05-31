@@ -1,0 +1,8 @@
+.blogBack {
+	background-color: darkblue;
+	color: white;
+}
+
+#maincontent a:link { color: white; }
+#maincontent a:visited { color: lightblue; }
+#maincontent a:hover { color: white; }
